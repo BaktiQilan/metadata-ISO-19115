@@ -9,3 +9,10 @@
 
 # Jangan abaikan README.md (case sensitive)
 !README.md
+
+
+# Jangan abaikan file template XML
+!Template - metadata.xml
+
+# Jangan abaikan file Excel list peta
+!list peta.xlsx
