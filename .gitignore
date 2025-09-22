@@ -1,0 +1,11 @@
+# Abaikan SEMUA file
+*
+
+# Tetapi jangan abaikan file .gitignore itu sendiri
+!.gitignore
+
+# Jangan abaikan semua file .ipynb
+!*.ipynb
+
+# Jangan abaikan README.md (case sensitive)
+!README.md
