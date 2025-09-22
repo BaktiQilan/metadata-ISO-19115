@@ -5,7 +5,7 @@
 !.gitignore
 
 # Jangan abaikan semua file .ipynb
-!*.ipynb
+!catmdedit.ipynb
 
 # Jangan abaikan README.md (case sensitive)
 !README.md
